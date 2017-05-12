@@ -1,8 +1,5 @@
 """
-ass1.py
-CE151 assignment 1 template
-created by sands 30/10/10
-modified by sands 28/10/11 - number of exercises changed
+Python Assignment 1.py
 """
 
 def ex1() :
